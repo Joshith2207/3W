@@ -22,7 +22,7 @@ const AppContent = () => {
       <div className="loading-screen">
         <div className="spinner"></div>
         <p style={{ fontFamily: 'var(--font-display)', fontWeight: 500, letterSpacing: '0.05em' }}>
-          CONNECTING TO TASKPLANET...
+          CONNECTING TO SyncVerse...
         </p>
       </div>
     );
