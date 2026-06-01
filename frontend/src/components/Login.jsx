@@ -41,7 +41,7 @@ const Login = ({ onNavigate }) => {
       <div className="auth-card glass-card">
         <div className="auth-logo">
           <Sparkles className="logo-icon" size={28} color="#6c5ce7" />
-          <span>TaskPlanet</span>
+          <span>SncVerse</span>
         </div>
         <p className="auth-subtitle">Login to connect & post with the community</p>
 
