@@ -18,7 +18,7 @@ const Sidebar = ({ activeTab, onTabChange }) => {
         {/* Brand Logo */}
         <div className="brand">
           <Sparkles className="brand-logo-icon" size={24} color="#6c5ce7" />
-          <span>TaskPlanet</span>
+          <span>SyncVerse</span>
         </div>
 
         {/* Navigation Items */}
